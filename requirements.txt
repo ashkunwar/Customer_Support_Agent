@@ -1,0 +1,12 @@
+groq
+langgraph
+langchain
+langchain_groq
+langchain_openai
+langchain_anthropic
+langchain_google_genai
+langchain_community
+pandas
+openpyxl
+tabulate
+python-dotenv
